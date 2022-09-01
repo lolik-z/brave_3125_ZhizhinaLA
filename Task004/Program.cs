@@ -15,7 +15,7 @@ try
         {
             max=z;
         }
-    else Console.WriteLine("Максимальное из этих чисел "+max);
+    Console.WriteLine("Максимальное из этих чисел "+max);
     }
 catch 
     {            
