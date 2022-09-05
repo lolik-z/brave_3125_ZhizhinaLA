@@ -1,0 +1,15 @@
+C:\GB\brave_3125_ZhizhinaLA\Task013\bin\Debug\net6.0\Task013.exe
+C:\GB\brave_3125_ZhizhinaLA\Task013\bin\Debug\net6.0\Task013.deps.json
+C:\GB\brave_3125_ZhizhinaLA\Task013\bin\Debug\net6.0\Task013.runtimeconfig.json
+C:\GB\brave_3125_ZhizhinaLA\Task013\bin\Debug\net6.0\Task013.dll
+C:\GB\brave_3125_ZhizhinaLA\Task013\bin\Debug\net6.0\Task013.pdb
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.csproj.AssemblyReference.cache
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.AssemblyInfoInputs.cache
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.AssemblyInfo.cs
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.csproj.CoreCompileInputs.cache
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.dll
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\refint\Task013.dll
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.pdb
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\Task013.genruntimeconfig.cache
+C:\GB\brave_3125_ZhizhinaLA\Task013\obj\Debug\net6.0\ref\Task013.dll
