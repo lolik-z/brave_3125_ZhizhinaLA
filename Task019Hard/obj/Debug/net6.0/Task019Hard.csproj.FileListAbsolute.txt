@@ -1,0 +1,15 @@
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\bin\Debug\net6.0\Task019Hard.exe
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\bin\Debug\net6.0\Task019Hard.deps.json
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\bin\Debug\net6.0\Task019Hard.runtimeconfig.json
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\bin\Debug\net6.0\Task019Hard.dll
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\bin\Debug\net6.0\Task019Hard.pdb
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.csproj.AssemblyReference.cache
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.AssemblyInfoInputs.cache
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.AssemblyInfo.cs
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.csproj.CoreCompileInputs.cache
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.dll
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\refint\Task019Hard.dll
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.pdb
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\Task019Hard.genruntimeconfig.cache
+C:\GB\brave_3125_ZhizhinaLA\Task019Hard\obj\Debug\net6.0\ref\Task019Hard.dll
